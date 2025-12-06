@@ -6,3 +6,7 @@
 - 戒烟打卡❌
 
 # 20251206
+## 工作
+- 部署IPMI-EXPORTER,并在grafana上绘制dashboard✅
+## 生活
+- 戒烟打卡❌
